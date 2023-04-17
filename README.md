@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinayak Modi</h1>
-<h3 align="center">Computer Science Engineering Student</h3>
+<div align="center"> <img src="https://github.com/Vinayak1306/Vinayak1306/blob/04731025b0bb5c45b6d53b7bf6bbdf83e574a1e6/HeaderImage.png" alt="Vinayak1306" /> </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayak1306&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak1306" /> </p>
 
